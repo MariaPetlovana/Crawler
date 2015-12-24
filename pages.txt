@@ -1,0 +1,5 @@
+https://en.wikipedia.org/wiki/Lisp_%28programming_language%29
+https://en.wikipedia.org/wiki/Functional_programming
+https://en.wikipedia.org/wiki/Programming_language
+https://en.wikipedia.org/wiki/Programming_paradigm
+https://en.wikipedia.org/wiki/List_of_programming_languages_by_type
